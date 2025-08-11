@@ -13,25 +13,25 @@ Move your character using the WASD keys, avoid obstacles, and reach the goal in 
      ./darkmaze.sh
 
 This script will:
-     1. Check for Python 3
-     2. Create a virtual environment (venv)
-     3. Install all dependencies from requirements.txt
-     4. Launch the game
+1. Check for Python 3
+2. Create a virtual environment (venv)
+3. Install all dependencies from requirements.txt
+4. Launch the game
 
 NOTE: The virtual environment is active only while the game is running. You do not need to
 manually deactiveate it.
 
 ## How to Play
 Your character will move in four directions based on the keys pressed:
-     > W for up
-     > A for left
-     > S for down
-     > D for right
+- W for up
+- A for left
+- S for down
+- D for right
 
 ## Requirements
-> Python 3.8+
-> pip (comes with Python)
-> Internet connection for first-time dependency install
+- Python 3.8+
+- pip (comes with Python)
+- Internet connection for first-time dependency install
 
 ## Troubleshooting
 pygame not found
@@ -45,4 +45,5 @@ pygame not found
 All code, music, and art was created by Josh Nygaard
 joshdn03@gmail.com
 https://www.linkedin.com/in/josh-nygaard/
+
 
