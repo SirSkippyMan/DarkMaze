@@ -34,8 +34,8 @@ Your character will move in four directions based on the keys pressed:
 - Internet connection for first-time dependency install
 
 ## Troubleshooting
-pygame not found
-> Run the following commands:
+`pygame not found`
+Run the following commands:
 `source venv/bin/activate`
 `python -m pip install pygame`
 > If you're not running on Windows, run with the following script:
@@ -45,6 +45,7 @@ pygame not found
 All code, music, and art was created by Josh Nygaard
 joshdn03@gmail.com
 https://www.linkedin.com/in/josh-nygaard/
+
 
 
 
