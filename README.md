@@ -4,13 +4,13 @@ Move your character using the WASD keys, avoid obstacles, and reach the goal in 
 
 ## Installation
 1. Clone the repository:
-     git clone https://github.com/sirskippyman/DarkMaze.git
+`git clone https://github.com/sirskippyman/DarkMaze.git`
 2. Open the repository:
-     cd DarkMaze
+`cd DarkMaze`
 3. Make the run script executable:
-     chmod +x darkmaze.sh
+`chmod +x darkmaze.sh`
 4. Run the game:
-     ./darkmaze.sh
+`./darkmaze.sh`
 
 This script will:
 1. Check for Python 3
@@ -36,14 +36,15 @@ Your character will move in four directions based on the keys pressed:
 ## Troubleshooting
 pygame not found
 > Run the following commands:
-     source venv/bin/activate
-     python -m pip install pygame
+`source venv/bin/activate`
+`python -m pip install pygame`
 > If you're not running on Windows, run with the following script:
-     bash darkmaze.sh
+`bash darkmaze.sh`
 
 ## Credits
 All code, music, and art was created by Josh Nygaard
 joshdn03@gmail.com
 https://www.linkedin.com/in/josh-nygaard/
+
 
 
