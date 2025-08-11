@@ -1,8 +1,8 @@
-# ========== DARK MAZE ========== #
+# Dark Maze
 A simple but fun Pygame-based game with six progressively challenging levels.
 Move your character using the WASD keys, avoid obstacles, and reach the goal in each stage.
 
-# ===== INSTALLATION ===== #
+## Installation
 1. Clone the repository:
      git clone https://github.com/sirskippyman/DarkMaze.git
 2. Open the repository:
@@ -21,19 +21,19 @@ This script will:
 NOTE: The virtual environment is active only while the game is running. You do not need to
 manually deactiveate it.
 
-# ===== HOW TO PLAY ===== #
+## How to Play
 Your character will move in four directions based on the keys pressed:
      > W for up
      > A for left
      > S for down
      > D for right
 
-# ===== REQUIREMENTS ===== #
+## Requirements
 > Python 3.8+
 > pip (comes with Python)
 > Internet connection for first-time dependency install
 
-# ===== TROUBLESHOOTING ===== #
+## Troubleshooting
 pygame not found
 > Run the following commands:
      source venv/bin/activate
@@ -41,7 +41,8 @@ pygame not found
 > If you're not running on Windows, run with the following script:
      bash darkmaze.sh
 
-# ===== CREDIT ===== #
+## Credits
 All code, music, and art was created by Josh Nygaard
 joshdn03@gmail.com
 https://www.linkedin.com/in/josh-nygaard/
+
