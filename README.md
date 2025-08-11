@@ -1,6 +1,6 @@
 # Dark Maze
-A simple but fun Pygame-based game with six progressively challenging levels.
-Move your character using the WASD keys, avoid obstacles, and reach the goal in each stage.
+A simple but fun Pygame-based game with **six progressively challenging levels**.
+Move your character using the **WASD keys**, avoid obstacles, and reach the goal in each stage.
 
 ## Installation
 1. Clone the repository:
@@ -34,17 +34,24 @@ Your character will move in four directions based on the keys pressed:
 - Internet connection for first-time dependency install
 
 ## Troubleshooting
-`pygame not found`
+```
+pygame not found
+```
 Run the following commands:
-`source venv/bin/activate`
-`python -m pip install pygame`
-> If you're not running on Windows, run with the following script:
-`bash darkmaze.sh`
+```
+source venv/bin/activate
+python -m pip install pygame
+```
+If you're not running on Windows, run with the following script:
+```
+bash darkmaze.sh
+```
 
 ## Credits
-All code, music, and art was created by Josh Nygaard
-joshdn03@gmail.com
+All code, music, and art was created by Josh Nygaard  
+joshdn03@gmail.com  
 https://www.linkedin.com/in/josh-nygaard/
+
 
 
 
