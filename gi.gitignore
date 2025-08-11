@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+
+# PyCharm / VSCode folders if any
+.idea/
+.vscode/
